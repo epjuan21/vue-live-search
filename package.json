@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "algoliasearch": "^3.35.1",
-    "algoliasearch-helper": "^2.28.0",
+    "algoliasearch-helper": "^3.6.2",
     "axios": "^0.19.0",
     "core-js": "^3.3.2",
     "instantsearch.css": "^7.3.1",
